@@ -8,13 +8,9 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/gallery-Sass/blob/main/gif/bandicam%202023-02-16%2021-18-00-496.gif"/>
+  <img src="https://github.com/Lucas8901/RGB-Color-Slider/blob/main/bandicam%202023-06-12%2019-46-27-914.gif"/>
   </div>
   
- <br>
- <p> Teste em seu dispositivo📱:  https://gallery-sass.vercel.app/</p>
- <br>
-
 <br>
 <br>
 
@@ -24,6 +20,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JAVASCRIPT-1572B6?style=for-the-badge&logo=javascript&logoColor=white"/>
 </div>
 </p>
 <br>
